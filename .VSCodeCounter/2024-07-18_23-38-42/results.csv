@@ -1,0 +1,26 @@
+"filename", "language", "JSON", "JavaScript", "HTML", "Vue", "JSON with Comments", "Markdown", "comment", "blank", "total"
+"e:\vgn\webofartist\project\README.md", "Markdown", 0, 0, 0, 0, 0, 15, 0, 5, 20
+"e:\vgn\webofartist\project\babel.config.js", "JavaScript", 0, 5, 0, 0, 0, 0, 0, 1, 6
+"e:\vgn\webofartist\project\jsconfig.json", "JSON with Comments", 0, 0, 0, 0, 19, 0, 0, 1, 20
+"e:\vgn\webofartist\project\package-lock.json", "JSON", 18175, 0, 0, 0, 0, 0, 0, 1, 18176
+"e:\vgn\webofartist\project\package.json", "JSON", 32, 0, 0, 0, 0, 0, 0, 1, 33
+"e:\vgn\webofartist\project\public\index.html", "HTML", 0, 0, 16, 0, 0, 0, 1, 1, 18
+"e:\vgn\webofartist\project\src\App.vue", "Vue", 0, 0, 0, 28, 0, 0, 0, 5, 33
+"e:\vgn\webofartist\project\src\components\HelloWorld.vue", "Vue", 0, 0, 0, 57, 0, 0, 0, 3, 60
+"e:\vgn\webofartist\project\src\components\Layout.vue", "Vue", 0, 0, 0, 180, 0, 0, 0, 3, 183
+"e:\vgn\webofartist\project\src\main.js", "JavaScript", 0, 16, 0, 0, 0, 0, 0, 3, 19
+"e:\vgn\webofartist\project\src\router\index.js", "JavaScript", 0, 79, 0, 0, 0, 0, 3, 4, 86
+"e:\vgn\webofartist\project\src\store\index.js", "JavaScript", 0, 15, 0, 0, 0, 0, 0, 3, 18
+"e:\vgn\webofartist\project\src\utils\request.js", "JavaScript", 0, 15, 0, 0, 0, 0, 3, 4, 22
+"e:\vgn\webofartist\project\src\views\AboutView.vue", "Vue", 0, 0, 0, 5, 0, 0, 0, 1, 6
+"e:\vgn\webofartist\project\src\views\HomeView.vue", "Vue", 0, 0, 0, 246, 0, 0, 1, 7, 254
+"e:\vgn\webofartist\project\src\views\TeachGraphic1.vue", "Vue", 0, 0, 0, 123, 0, 0, 0, 3, 126
+"e:\vgn\webofartist\project\src\views\TeachGraphic2.vue", "Vue", 0, 0, 0, 175, 0, 0, 0, 3, 178
+"e:\vgn\webofartist\project\src\views\TeachGraphic3.vue", "Vue", 0, 0, 0, 173, 0, 0, 0, 3, 176
+"e:\vgn\webofartist\project\src\views\TeachVideo1.vue", "Vue", 0, 0, 0, 140, 0, 0, 0, 2, 142
+"e:\vgn\webofartist\project\src\views\TeachVideo2.vue", "Vue", 0, 0, 0, 152, 0, 0, 0, 3, 155
+"e:\vgn\webofartist\project\src\views\about.vue", "Vue", 0, 0, 0, 141, 0, 0, 0, 3, 144
+"e:\vgn\webofartist\project\src\views\history.vue", "Vue", 0, 0, 0, 140, 0, 0, 0, 4, 144
+"e:\vgn\webofartist\project\src\views\production.vue", "Vue", 0, 0, 0, 168, 0, 0, 0, 5, 173
+"e:\vgn\webofartist\project\vue.config.js", "JavaScript", 0, 6, 0, 0, 0, 0, 0, 1, 7
+"Total", "-", 18207, 136, 16, 1728, 19, 15, 8, 70, 20199

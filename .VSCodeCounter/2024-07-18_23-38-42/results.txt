@@ -1,0 +1,62 @@
+Date : 2024-07-18 23:38:42
+Directory : e:\vgn\webofartist\project
+Total : 24 files,  20121 codes, 8 comments, 70 blanks, all 20199 lines
+
+Languages
++--------------------+------------+------------+------------+------------+------------+
+| language           | files      | code       | comment    | blank      | total      |
++--------------------+------------+------------+------------+------------+------------+
+| JSON               |          2 |     18,207 |          0 |          2 |     18,209 |
+| Vue                |         13 |      1,728 |          1 |         45 |      1,774 |
+| JavaScript         |          6 |        136 |          6 |         16 |        158 |
+| JSON with Comments |          1 |         19 |          0 |          1 |         20 |
+| HTML               |          1 |         16 |          1 |          1 |         18 |
+| Markdown           |          1 |         15 |          0 |          5 |         20 |
++--------------------+------------+------------+------------+------------+------------+
+
+Directories
++----------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                     | files      | code       | comment    | blank      | total      |
++----------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                        |         24 |     20,121 |          8 |         70 |     20,199 |
+| . (Files)                                                |          6 |     18,252 |          0 |         10 |     18,262 |
+| public                                                   |          1 |         16 |          1 |          1 |         18 |
+| src                                                      |         17 |      1,853 |          7 |         59 |      1,919 |
+| src (Files)                                              |          2 |         44 |          0 |          8 |         52 |
+| src\components                                           |          2 |        237 |          0 |          6 |        243 |
+| src\router                                               |          1 |         79 |          3 |          4 |         86 |
+| src\store                                                |          1 |         15 |          0 |          3 |         18 |
+| src\utils                                                |          1 |         15 |          3 |          4 |         22 |
+| src\views                                                |         10 |      1,463 |          1 |         34 |      1,498 |
++----------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++----------------------------------------------------------+--------------------+------------+------------+------------+------------+
+| filename                                                 | language           | code       | comment    | blank      | total      |
++----------------------------------------------------------+--------------------+------------+------------+------------+------------+
+| e:\vgn\webofartist\project\README.md                     | Markdown           |         15 |          0 |          5 |         20 |
+| e:\vgn\webofartist\project\babel.config.js               | JavaScript         |          5 |          0 |          1 |          6 |
+| e:\vgn\webofartist\project\jsconfig.json                 | JSON with Comments |         19 |          0 |          1 |         20 |
+| e:\vgn\webofartist\project\package-lock.json             | JSON               |     18,175 |          0 |          1 |     18,176 |
+| e:\vgn\webofartist\project\package.json                  | JSON               |         32 |          0 |          1 |         33 |
+| e:\vgn\webofartist\project\public\index.html             | HTML               |         16 |          1 |          1 |         18 |
+| e:\vgn\webofartist\project\src\App.vue                   | Vue                |         28 |          0 |          5 |         33 |
+| e:\vgn\webofartist\project\src\components\HelloWorld.vue | Vue                |         57 |          0 |          3 |         60 |
+| e:\vgn\webofartist\project\src\components\Layout.vue     | Vue                |        180 |          0 |          3 |        183 |
+| e:\vgn\webofartist\project\src\main.js                   | JavaScript         |         16 |          0 |          3 |         19 |
+| e:\vgn\webofartist\project\src\router\index.js           | JavaScript         |         79 |          3 |          4 |         86 |
+| e:\vgn\webofartist\project\src\store\index.js            | JavaScript         |         15 |          0 |          3 |         18 |
+| e:\vgn\webofartist\project\src\utils\request.js          | JavaScript         |         15 |          3 |          4 |         22 |
+| e:\vgn\webofartist\project\src\views\AboutView.vue       | Vue                |          5 |          0 |          1 |          6 |
+| e:\vgn\webofartist\project\src\views\HomeView.vue        | Vue                |        246 |          1 |          7 |        254 |
+| e:\vgn\webofartist\project\src\views\TeachGraphic1.vue   | Vue                |        123 |          0 |          3 |        126 |
+| e:\vgn\webofartist\project\src\views\TeachGraphic2.vue   | Vue                |        175 |          0 |          3 |        178 |
+| e:\vgn\webofartist\project\src\views\TeachGraphic3.vue   | Vue                |        173 |          0 |          3 |        176 |
+| e:\vgn\webofartist\project\src\views\TeachVideo1.vue     | Vue                |        140 |          0 |          2 |        142 |
+| e:\vgn\webofartist\project\src\views\TeachVideo2.vue     | Vue                |        152 |          0 |          3 |        155 |
+| e:\vgn\webofartist\project\src\views\about.vue           | Vue                |        141 |          0 |          3 |        144 |
+| e:\vgn\webofartist\project\src\views\history.vue         | Vue                |        140 |          0 |          4 |        144 |
+| e:\vgn\webofartist\project\src\views\production.vue      | Vue                |        168 |          0 |          5 |        173 |
+| e:\vgn\webofartist\project\vue.config.js                 | JavaScript         |          6 |          0 |          1 |          7 |
+| Total                                                    |                    |     20,121 |          8 |         70 |     20,199 |
++----------------------------------------------------------+--------------------+------------+------------+------------+------------+
